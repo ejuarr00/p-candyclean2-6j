@@ -2,10 +2,8 @@ package es.unileon.prg1.candyClean;
 
 /**
  * Clase donde se generan los mensajes de las excepciones
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class candyCleanExceptions extends Exception {
 

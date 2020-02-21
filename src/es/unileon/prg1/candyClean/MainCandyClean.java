@@ -5,10 +5,8 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * Clase principal del programa.
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class MainCandyClean {
 	

@@ -10,10 +10,8 @@ import org.junit.Test;
 
 /**
  * Clase encargada de Testear la clase Casilla
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class CasillaTest {
 

@@ -9,10 +9,8 @@ import org.junit.Test;
 
 /**
  * Clase encargada de Testear la clase Color
- * @author dquina00
- * @author ejuarr00
+ *@author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class ColorTest {
 

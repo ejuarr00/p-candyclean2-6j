@@ -5,10 +5,8 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * Clase encargada de controlar la creación y las modificacione que se producen en el tablero.
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class Tablero {
 

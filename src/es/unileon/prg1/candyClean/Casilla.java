@@ -2,10 +2,8 @@ package es.unileon.prg1.candyClean;
 
 /**
  * Clase para supervisar las casillas del juego
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class Casilla {
 

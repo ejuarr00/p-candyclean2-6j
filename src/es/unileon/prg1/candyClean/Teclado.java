@@ -5,10 +5,8 @@ import java.io.InputStreamReader;
 
 /**
  * Clase para manejar las entradas por teclado
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class Teclado{
 

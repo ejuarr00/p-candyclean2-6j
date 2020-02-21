@@ -2,10 +2,8 @@ package es.unileon.prg1.candyClean;
 
 /**
  * Clase que se encarga de los colores 
- * @author dquina00
- * @author ejuarr00
+ *@author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class Color {
 

@@ -6,10 +6,8 @@ import org.apache.logging.log4j.LogManager;
 
 /**
  * Clase encargada de controlar la mecánica del juego.
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 
 public class CandyClean  {

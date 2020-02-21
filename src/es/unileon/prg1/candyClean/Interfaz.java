@@ -5,10 +5,8 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * Clase que controla la consola
- * @author dquina00
  * @author ejuarr00
  * @author jmachr00
- * @author jmartc08
  */
 public class Interfaz {
 
